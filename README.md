@@ -5,7 +5,7 @@
 🎨 Art
 
 <h2>About me:</h2>
-🌱 I'm beginner front-end developer based in Kraków.
+🌱 I'm beginner front-end developer based in Kraków. <br/>
 🥅 2022 Goals: Get internship, Learn more about web development, travel a lot. <br/>
 🌱 I’m currently learning everything!<br/>
 🐶 I love animals!
